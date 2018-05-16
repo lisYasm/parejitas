@@ -1,11 +1,12 @@
 <?php 
-  /*date_default_timezone_set('America/La_Paz');
+  date_default_timezone_set('America/La_Paz');
   include("conexion.php");
-  $con = new conexion();
-  $con->conectarse();
   $sql="select * from migrations";
-  $resultado=mysql_query($sql);
-  $fila=mysql_fetch_array($resultado);*/
+  $resultado=mysqli_query($conexion, $sql);
+  while ($consulta = mysqli_fetch_array($resultado)) {
+    /*echo $consulta['migration'];*/
+  }
+  /*mysqli_close($conexion);*/
 ?>
 <!DOCTYPE html>
 <html lang="en">

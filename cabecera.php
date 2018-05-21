@@ -1,13 +1,17 @@
 <?php 
   date_default_timezone_set('America/La_Paz');
   include("conexion.php");
- /* $sql="select * from one_player";
+  /*$sql="SELECT tipo FROM one_player where tipo = 'sica' and puntaje BETWEEN 25 AND 49";
   $resultado=mysqli_query($conexion, $sql);
+  $num = mysqli_num_rows($resultado) ;
+  echo $num;
   while ($consulta = mysqli_fetch_array($resultado)) {
-    echo $consulta['puntaje'];
+    echo $consulta['tipo'];
     echo " ";
   }
-  mysqli_close($conexion);*/
+  mysqli_close($conexion);
+  
+  SELECT * FROM two_players ORDER BY id DESC limit 2*/
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,6 +25,7 @@
     <link href="production/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="vendors/nprogress/nprogress.css" rel="stylesheet">
     <link href="build/css/custom.min.css" rel="stylesheet">
+    <link rel="shortcut icon" href="production/images/logo.png">
   </head>
 
   <body class="nav-md">

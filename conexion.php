@@ -7,7 +7,7 @@
 			$host = "localhost";
 			$user = "root";
 			$pw = "";
-			$db= "prueba1";
+			$db= "bd_parejitas";
 
 			
 			$conexion = new mysqli($host, $user, $pw, $db);

@@ -1,12 +1,13 @@
 <?php 
   date_default_timezone_set('America/La_Paz');
   include("conexion.php");
-  $sql="select * from migrations";
+ /* $sql="select * from one_player";
   $resultado=mysqli_query($conexion, $sql);
   while ($consulta = mysqli_fetch_array($resultado)) {
-    /*echo $consulta['migration'];*/
+    echo $consulta['puntaje'];
+    echo " ";
   }
-  /*mysqli_close($conexion);*/
+  mysqli_close($conexion);*/
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -36,7 +37,7 @@
                 <img src="production/images/logo.png" alt="..." class="img-circle profile_img">
               </div>
               <div class="profile_info">
-                <span>¿Conoces a tu pareja?</span>
+                <span>FULL STACK</span>
                 <h2></h2>
               </div>
             </div>

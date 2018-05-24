@@ -23,21 +23,25 @@
           </div>
           <div class="x_content">
             <h4>4 - 24</h4>
-            <small>Lorem ipsum dolor sit amet consectetur 
-            adipisicing elit. Aut corporis harum reprehenderit cumque expedita 
-            quis architecto vero! Consectetur tempore corrupti odit voluptate</small>
+            <small>Vacunado completamente. Ver a esa persona especial o ver un cactus es lo
+        mismo para ti. Pero no te preocupes, algun dia te enamoraras de verdad asi que anda ahorrando
+        porque sale caro
+</small>
             <h4>25 - 49</h4>
-            <small>Lorem ipsum dolor sit amet consectetur 
-            adipisicing elit. Aut corporis harum reprehenderit cumque expedita 
-            quis architecto vero! Consectetur tempore corrupti odit voluptate </small>
+            <small>Frecuentes intervalo de sentir mariposas en el estomago y hambre. Sientes
+        extrañas ganas de bañarte cuando la ves y luego se te quitan esas ganas inmediatamente si ves un
+        playstation. Indecision total.
+ </small>
             <h4>50 - 74</h4>
-            <small>Lorem ipsum dolor sit amet consectetur 
-            adipisicing elit. Aut corporis harum reprehenderit cumque expedita 
-            quis architecto vero! Consectetur tempore corrupti odit voluptate </small>
+            <small>Potencialmente expuesto al Virus del SICA, suele presentarse pequeños tartamudeos
+        y ganas de ir al baño y fuertes dolores en la billetera cada vez que la ves.
+ </small>
             <h4>75 - 100</h4>
-            <small>Lorem ipsum dolor sit amet consectetur 
-            adipisicing elit. Aut corporis harum reprehenderit cumque expedita 
-            quis architecto vero! Consectetur tempore corrupti odit voluptate </small>
+            <small>Estas totalmente infectado del virus sica Sindrome de Inmensa Camoteria
+        Adquirida, los sintomas que seguramente tienes son: Ojos de borrego degollado, sudoracion en
+        las manos, pies, orejas y demas. Tembladera cuando ves a esa persona necesitas cada vez un
+        babero mas grande. Mas de seis materias aplazadas tambien vale
+ </small>
             
           </div>
         </div>

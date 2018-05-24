@@ -1,19 +1,9 @@
 <?php 
   date_default_timezone_set('America/La_Paz');
   include("conexion.php");
-  /*$sql="SELECT tipo FROM one_player where tipo = 'sica' and puntaje BETWEEN 25 AND 49";
-  $resultado=mysqli_query($conexion, $sql);
-  $num = mysqli_num_rows($resultado) ;
-  echo $num;
-  while ($consulta = mysqli_fetch_array($resultado)) {
-    echo $consulta['tipo'];
-    echo " ";
-  }
-  mysqli_close($conexion);
   
-  SELECT * FROM two_players ORDER BY id DESC limit 2*/
+  /*mysqli_close($conexion);*/
 ?>
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -55,10 +45,11 @@
                 <ul class="nav side-menu">
                   <li><a href="index.php"><i class="fa fa-heart-o"></i> SICA </a></li>
                   <li><a href="friendzone.php"><i class="fa fa-heart"></i> FRIENDZONE </a></li>
-                  <li><a href="junior.php"><i class="fa fa-heart-o"></i> JUNIOR </a></li>
-                  <li><a href="senior.php"><i class="fa fa-heart"></i> SENIOR</a></li>
+                  <li><a href="junior.php"><i class="fa fa-heart-o"></i> 1 AÑO </a></li>
+                  <li><a href="senior.php"><i class="fa fa-heart"></i> 3 AÑOS</a></li>
                 </ul>
               </div>
             </div>
           </div>
         </div>
+        
